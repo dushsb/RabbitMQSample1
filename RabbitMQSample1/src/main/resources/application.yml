@@ -1,0 +1,11 @@
+spring:
+  rabbitmq:
+    host: vwsidsg-wrkfl02
+    port: 5672
+    username: itsd
+    password: 8ik,8uhb
+    
+#spring.rabbitmq.host=10.132.130.89
+#spring.rabbitmq.host=localhost
+#spring.rabbitmq.username=guest
+#spring.rabbitmq.password=guest
